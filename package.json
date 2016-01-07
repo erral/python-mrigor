@@ -1,7 +1,7 @@
 {
   "name": "python-mrigor",
   "main": "./lib/python-mrigor",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "this package integrates mr.igor a handy tool that remembers your python import sentences so you don't have to",
   "keywords": [
     "python",
