@@ -3,7 +3,7 @@
   "main": "./lib/python-mrigor",
   "version": "2.0.0",
   "description": "this package integrates mr.igor a handy tool that remembers your python import sentences so you don't have to",
-  "keywords": [],
+  "keywords": ["python", "import", "autocomplete"],
   "activationHooks": [
     "language-python:grammar-used"
   ],
