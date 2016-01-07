@@ -1,9 +1,13 @@
 {
   "name": "python-mrigor",
   "main": "./lib/python-mrigor",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "this package integrates mr.igor a handy tool that remembers your python import sentences so you don't have to",
-  "keywords": ["python", "import", "autocomplete"],
+  "keywords": [
+    "python",
+    "import",
+    "autocomplete"
+  ],
   "activationHooks": [
     "language-python:grammar-used"
   ],
